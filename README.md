@@ -5,7 +5,7 @@
 ## Installation
 
 ```sh
-$ npm install babel-plugin-inline-json-config-values
+$ npm install babel-plugin-inline-json-config-values --save-dev
 ```
 
 ## Usage
